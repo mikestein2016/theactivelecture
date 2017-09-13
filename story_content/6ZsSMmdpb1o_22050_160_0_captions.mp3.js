@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,000%20--%3E%2000:00:03,003%0D%0AStudents%20reflect%20on%20a%20question%20you%20provide%20them.%0D%0A%0D%0A2%0D%0A00:00:03,027%20--%3E%2000:00:06,594%0D%0AThen%20they%20pair%20up%20with%20a%20partner%20and%20share%20their%20responses.%0D%0A%0D%0A"}')
